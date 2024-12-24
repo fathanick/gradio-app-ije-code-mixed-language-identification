@@ -17,3 +17,9 @@ Welcome to the "Indonesian-Javanese-English Code-Mixed Language Identification" 
 4. Multilingual Support: Our models are optimized to handle code-mixing involving Indonesian, Javanese, and English languages, making them versatile for various language scenarios.
 
 5. Research and Experimentation: This repository serves as a valuable resource for researchers and language enthusiasts interested in code-mixed language analysis. Feel free to explore our code, experiment with the models, and contribute to ongoing research in this field.
+
+## How to run?
+
+```
+python app.py
+```

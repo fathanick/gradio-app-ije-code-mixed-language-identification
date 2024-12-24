@@ -51,4 +51,4 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:
 
 # Launch the application
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(share=True)
